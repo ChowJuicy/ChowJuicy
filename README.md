@@ -6,7 +6,7 @@
 
 ⚫ I'm currently learning about databases and web programming
 
-
+⚫ Chowjuicy is a butcher pronunciation of my Chinese name
 <!--
 **ChowJuicy/ChowJuicy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
