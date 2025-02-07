@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 ⚫ Hello, my name is Wilson Cao
+
 ⚫ I'm a student at SDSU majoring in computer engineering
+
 ⚫ I'm currently learning about databases and web programming
+
 
 <!--
 **ChowJuicy/ChowJuicy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
