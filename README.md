@@ -4,7 +4,9 @@
 
 • I'm interested in AI, cybersecurity, and web development
 
-• Chowjuicy is a butcher pronunciation of my Chinese name
+• I'm currently learning about web programming and how to use web development tools
+
+• Chowjuicy comes from a butchered pronunciation of my Chinese name
 <!--
 **ChowJuicy/ChowJuicy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
