@@ -1,5 +1,3 @@
-## Hi there 👋
-
 • Hello, my name is Wilson Cao
 
 • I'm a student at SDSU majoring in computer engineering
