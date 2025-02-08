@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-⚫ Hello, my name is Wilson Cao
+• Hello, my name is Wilson Cao
 
-⚫ I'm a student at SDSU majoring in computer engineering
+• I'm a student at SDSU majoring in computer engineering
 
-⚫ I'm currently learning about databases and web programming
+• I'm interested in AI, cybersecurity, and web development
 
-⚫ Chowjuicy is a butcher pronunciation of my Chinese name
+• Chowjuicy is a butcher pronunciation of my Chinese name
 <!--
 **ChowJuicy/ChowJuicy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
